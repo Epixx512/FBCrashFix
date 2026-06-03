@@ -1,0 +1,9 @@
+Package: com.podpod123.fbcrashfix
+Name: FBCrashFix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A tweak that prevents the Facebook app from crashing
+Maintainer: Pod
+Author: Pod
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
